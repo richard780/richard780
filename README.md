@@ -24,9 +24,8 @@ Everyone who wishes to learn and progress in their knowledge is welcome to colla
 
 ## 📬 Contact
 
-- Cell-Phone: +57 316-8079803
 - Email: Richard520ruiz@gmail.com
-- Linkedln: [Link](linkedin.com/in/ricardo-riascos-4246b6208)
+- [LinkedIn Profile](https://www.linkedin.com/in/ricardo-riascos-4246b6208)
 
 ## 🛠️ Skills
 
