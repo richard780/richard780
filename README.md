@@ -23,7 +23,10 @@ I am dedicating my time and effort to learning and improving my skills in the fo
 Everyone who wishes to learn and progress in their knowledge is welcome to collaborate with me on my projects! I am open to sharing ideas and working together to achieve our goals.
 
 ## 📬 Contact
-You can reach me through my social media or email. (This section will be personalized by you).
+
+- Cell-Phone: +57 316-8079803
+- Email: Richard520ruiz@gmail.com
+- Linkedln: [Link](linkedin.com/in/ricardo-riascos-4246b6208)
 
 ## 🛠️ Skills
 
