@@ -1,4 +1,4 @@
-# 🧑‍💻 Ricardo Riascos - Introduction
+# 🧑‍💻 Ricardo Riascos 
 
 Hello! I'm Ricardo Riascos, and I'm excited to introduce myself. I am passionate about learning, researching, innovating, and experimenting. My goal is to advance professionally and achieve success in everything I set my mind to.
 
