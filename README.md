@@ -1,26 +1,22 @@
 # 🧑‍💻 Ricardo Riascos 
 
-Hello! I'm Ricardo Riascos, and I'm excited to introduce myself. I am passionate about learning, researching, innovating, and experimenting. My goal is to advance professionally and achieve success in everything I set my mind to.
+ Me apasiona aprender, investigar, innovar y experimentar. Mi objetivo es avanzar profesionalmente y alcanzar el éxito en todo lo que me proponga.
 
 ## 🌟 Interests
-- Learning
-- Innovating
-- Researching
-- Experimenting
+- Aprendiendo
+- Innovando
+- Investigando
+- Experimentando
 
-I am constantly striving to improve and reach new milestones in my professional career.
+Me esfuerzo constantemente por mejorar y alcanzar nuevos hitos en mi carrera profesional.
 
 ## 📚 Currently Learning
-I am dedicating my time and effort to learning and improving my skills in the following areas:
-- Software Engineering
-- DevOps
-- Data Analysis
-- Cybersecurity
-- Microservices Management and Creation
-- Machine Learning and Artificial Intelligence
+Estoy dedicando mi tiempo y esfuerzo a aprender y mejorar mis habilidades en las siguientes áreas: 
+- Ingeniería de informatica 
+- Aprendizaje automático e inteligencia artificial
 
 ## 🤝 Collaborators
-Everyone who wishes to learn and progress in their knowledge is welcome to collaborate with me on my projects! I am open to sharing ideas and working together to achieve our goals.
+¡Todos los que deseen aprender y progresar en sus conocimientos pueden colaborar conmigo en mis proyectos! Estoy abierto a compartir ideas y trabajar juntos para lograr nuestros objetivos.
 
 ## 📬 Contact
 
