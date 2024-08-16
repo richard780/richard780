@@ -1,4 +1,4 @@
-# 🧑‍💻 Ricardo Riascos 
+# 🧑‍💻 Richard Ruiz 
 
  Me apasiona aprender, investigar, innovar y experimentar. Mi objetivo es avanzar profesionalmente y alcanzar el éxito en todo lo que me proponga.
 
